@@ -213,10 +213,10 @@ pub fn main() !void {
             vg.save();
             defer vg.restore();
             vg.translate(50, 0);
-            vg.rotate(std.math.degreesToRadians(f32, 15));
+            vg.rotate(std.math.degreesToRadians(15));
             drawBallShadow(ball_r);
         }
-        vg.rotate(std.math.degreesToRadians(f32, 15));
+        vg.rotate(std.math.degreesToRadians(15));
         drawBall(ball_r, ball_a);
 
         vg.resetTransform();
