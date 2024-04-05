@@ -13,8 +13,8 @@
             .hash = "1220c5360c9c71c215baa41b46ec18d0711059b48416a2b1cf96c7c2d87b2e8e4cf6",
         },
         .nanovg = .{
-            .url = "https://github.com/fabioarnold/nanovg-zig/archive/bc71f7de0e0299f45f9a6f4fdfa1e254b6306bea.tar.gz",
-            .hash = "12204950b6c2bc6259453e4366aa4673b5451c00a3e97c816cd1fd6f468a1407da6d",
+            .url = "https://github.com/fabioarnold/nanovg-zig/archive/b3396d4e65da5862c6ff088f64b3301aa50f3a9f.tar.gz",
+            .hash = "1220908cb7b3e907526744c1ab23d21d312a6062e3813dc1facc6f03980fdd3c04f6",
         },
     },
 }
